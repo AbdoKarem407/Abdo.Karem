@@ -489,6 +489,7 @@ font-weight: bold;
     }
     .page2{
         padding: 0 10px 0 ;
+        margin-top:3.2rem;
     }
 
        .menu .fa-solid {
@@ -667,6 +668,7 @@ form button{
     }
     .page2{
         padding: 0 10px 0 ;
+         margin-top:5rem;
     }
     .page4{
         height: auto;
@@ -710,7 +712,7 @@ form button{
 
     margin-left: 2rem;
 }
-
+    
 }
 /* DESKTOP */
 @media(min-width:992px) and (max-width:1199.98px){
