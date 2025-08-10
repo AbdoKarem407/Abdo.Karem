@@ -657,7 +657,10 @@ form button{
     padding-top: 0;
     flex-wrap: wrap;
 }
+  .page1{
+  margin-top:25rem;
 
+}
     .image1 img{
         width: 200px;
         height: 200px;
