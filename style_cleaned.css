@@ -657,6 +657,12 @@ form button{
     padding-top: 0;
     flex-wrap: wrap;
 }
+      .image1 img{
+        width: 250px;
+        height: 250px;
+       
+
+    }
  
     .image1 img{
         width: 200px;
@@ -666,7 +672,7 @@ form button{
 
     }
        .page1{
-        padding-top: 200px;
+        padding-top: 250px;
 
     }
     .page2{
