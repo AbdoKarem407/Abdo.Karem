@@ -657,22 +657,17 @@ form button{
     padding-top: 0;
     flex-wrap: wrap;
 }
-      .image1 img{
-        width: 250px;
-        height: 250px;
-       
-
-    }
+      
  
     .image1 img{
-        width: 200px;
-        height: 200px;
+        width: 260px;
+        height: 260px;
         margin-top: -50rem;
         margin-left: 100px;
 
     }
        .page1{
-        padding-top: 250px;
+        padding-top: 268px;
 
     }
     .page2{
