@@ -747,10 +747,10 @@ font-size: 15px;
 
 @media(min-width:768px) and (max-width:991.98px){
     .text1 h1{
-        font-size: 45px;
+        font-size: 48px;
     }
     .text1 p{
-    font-size: 21px;
+    font-size: 23px;
     }
     .page1 .image1 {
     display: flex;
@@ -760,15 +760,15 @@ font-size: 15px;
 }
 
     .image1 img{
-        width: 240px;
-        height: 240px;
+        width: 245px;
+        height: 245px;
         margin-top: -60rem;
         margin-left: 100px;
 
     }
        .page1{
         padding-top: 175px;
-        margin-top: 3rem;
+        margin-top: 3.8rem;
     }
     .page2{
         padding: 0 10px 0;
