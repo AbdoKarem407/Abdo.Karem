@@ -747,7 +747,7 @@ font-size: 15px;
 
 @media(min-width:768px) and (max-width:991.98px){
     .text1 h1{
-        font-size: 43px;
+        font-size: 45px;
     }
     .text1 p{
     font-size: 21px;
@@ -772,7 +772,7 @@ font-size: 15px;
     }
     .page2{
         padding: 0 10px 0 ;
-        margin-top: 20rem;
+        margin-top: 25rem;
         
     }
     .page4{
