@@ -775,6 +775,11 @@ font-size: 15px;
        
         
     }
+    .text1 button{
+width: 135px;
+height: 50px;
+
+}
     .page4{
         height: auto;
     }
