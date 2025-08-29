@@ -137,7 +137,7 @@ box-shadow: 0 12px 40px rgba(0, 128, 0, 0.7);
 }
 .page2{
 margin-top: 20rem;
- background-color: #1b1b1b63;
+background-color: #1b1b1b63;
 
 }
 
@@ -762,7 +762,7 @@ font-size: 15px;
     .image1 img{
         width: 240px;
         height: 240px;
-        margin-top: -30rem;
+        margin-top: -50rem;
         margin-left: 100px;
 
     }
@@ -771,7 +771,7 @@ font-size: 15px;
        
     }
     .page2{
-        padding: 0 10px 0 ;
+        padding: 0 10px 0;
        
         
     }
